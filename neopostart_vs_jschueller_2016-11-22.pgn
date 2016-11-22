@@ -1,0 +1,14 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.11.22"]
+[White "neopostart"]
+[Black "jschueller"]
+[WhiteElo "996"]
+[BlackElo "977"]
+[TimeControl "300"]
+[ECO "C64"]
+[Result "0-1"]
+[CurrentPosition "r3k2r/p1p2p2/1b1p3p/3PP1p1/2p5/2N2N2/PP2K1q1/R2QR3 w kq - 2 22"]
+
+1.e4 Nc6 2.Nf3 e5 3.c3 Bc5 4.Bb5 d6 5.Bxc6+ bxc6 6.d4 exd4 7.cxd4 Bb6 8.Nc3 Bg4 9.d5 c5 10.Bg5 Nf6 11.O-O h6 12.Bh4 g5 13.Bg3 Qd7 14.Re1 Nh5 15.h3 Nxg3 16.fxg3 Bxh3 17.gxh3 Qxh3 18.e5 Qxg3+ 19.Kf1 Qh3+ 20.Kf2 c4+ 21.Ke2 Qg2# 
+0-1
