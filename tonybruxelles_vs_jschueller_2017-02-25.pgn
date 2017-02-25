@@ -1,0 +1,14 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.02.25"]
+[White "tonybruxelles"]
+[Black "jschueller"]
+[WhiteElo "1241"]
+[BlackElo "1257"]
+[TimeControl "300"]
+[ECO "A00"]
+[Result "0-1"]
+[Termination "jschueller won by checkmate"]
+[CurrentPosition "r3k3/pppn1p2/3p4/6p1/1P2P3/3R4/P1q4r/1N1KQ3 w q - 3 34"]
+
+1.g3 e5 2.Bg2 Nc6 3.b3 Bc5 4.Bb2 d6 5.Nf3 Bf5 6.O-O Nf6 7.d3 h6 8.e4 Bg4 9.Nbd2 g5 10.Qe1 Nd4 11.Bxd4 Bxd4 12.Rb1 Bc3 13.Qd1 h5 14.Nc4 Nd7 15.b4 h4 16.Rb3 Bd4 17.Qd2 Qf6 18.Nxd4 exd4 19.c3 hxg3 20.fxg3 Qh6 21.h3 Bxh3 22.Bxh3 Qxh3 23.Kf2 Qh2+ 24.Ke1 Qxg3+ 25.Kd1 Rh2 26.Qe1 Qxd3+ 27.Nd2 dxc3 28.Rf3 c2+ 29.Kc1 Qd4 30.Rfd3 Qa1+ 31.Rb1 cxb1=Q+ 32.Nxb1 Qb2+ 33.Kd1 Qc2#  0-1
