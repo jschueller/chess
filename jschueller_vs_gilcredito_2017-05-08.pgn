@@ -1,0 +1,14 @@
+[ECO "C40"]
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.08"]
+[White "jschueller"]
+[Black "gilcredito"]
+[WhiteElo "1218"]
+[BlackElo "1246"]
+[TimeControl "300"]
+[Termination "jschueller won by checkmate"]
+[Result "1-0"]
+[CurrentPosition "4q3/2B5/p7/1p1R4/1k6/1BP5/KP3b2/8 b - - 0 36"]
+
+1.e4 e5 2.Nf3 f6 3.Bc4 Ne7 4.Nc3 c6 5.d4 b5 6.Bb3 d6 7.dxe5 fxe5 8.Bg5 h6 9.Bh4 Qb6 10.Qxd6 Ng6 11.Qxg6+ Kd7 12.Nxe5+ Kc7 13.Qf7+ Nd7 14.Bg3 Kb7 15.Nxd7 Bxd7 16.Qxd7+ Ka6 17.O-O-O Bc5 18.a4 Rad8 19.axb5+ cxb5 20.Qxg7 Rhg8 21.Qxh6 Qxh6+ 22.Kb1 Rxd1+ 23.Rxd1 Rf8 24.Nd5 Bxf2 25.Nc7+ Ka5 26.Bd6 Rg8 27.Rd5 a6 28.g3 Qxh2 29.e5 Rxg3 30.e6 Qg1+ 31.Ka2 Re3 32.e7 Qg6 33.e8=Q Rxe8 34.Nxe8 Qxe8 35.Bc7+ Kb4 36.c3#  1-0
